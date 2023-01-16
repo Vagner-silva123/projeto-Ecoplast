@@ -80,7 +80,7 @@ main{
     height: 600px;
 }
 main>h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: var(--fonte-destaque);
     text-align: center;
     font-size: 1.3m;
 
